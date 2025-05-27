@@ -19,3 +19,11 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+
+  assets:
+    - assets/images/profile.jpg
+    - assets/icons/cancer.png
+    - assets/icons/leo.png
+    - assets/icons/earth.png
+    - assets/icons/feminine.png
+    - assets/icons/spinner.gif
